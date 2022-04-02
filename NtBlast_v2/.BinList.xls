@@ -1,0 +1,5 @@
+Blastn	DEFAULTDIR/software/ncbi-blast-2.5.0+/bin/blastn
+NtDb	DEFAULTDIR/DataBase/DB4Blast/NtOfNCBI/nt
+Gi2TaxId	DEFAULTDIR/DataBase/DB4Blast/gi2taxId.dmp
+TaxId2Spe	DEFAULTDIR/DataBase/DB4Blast/taxId2Species.dmp
+TaxNode	DEFAULTDIR/DataBase/DB4Blast/TaxonomyNodes
